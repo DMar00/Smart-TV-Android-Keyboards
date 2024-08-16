@@ -5,10 +5,26 @@ This repository contains multiple virtual keyboards for Android Smart TV, implem
 ## Keyboard Types
 
 ### Basic Keyboard
-- This keyboard offers a basic input mode without any suggestion feature. Users manually input characters using the directional keys on the remote control.
+This virtual keyboard offers a basic input mode without any suggestion feature. Users manually input characters using the directional keys on the remote control.
 
 ### Color PopupBar Static Keyboard
-- This keyboard
+This virtual keyboard introduces a popup suggestion bar that appears directly above the selected letter whenever a letter on the virtual keyboard is chosen using a remote control. The popup bar provides four letter suggestions, each associated with a different color for easy selection:
+
+- **Red Circle**: Selectable with the **Red Button** on the remote.
+- **Green Circle**: Selectable with the **Green Button** on the remote.
+- **Yellow Circle**: Selectable with the **Yellow Button** on the remote.
+- **Blue Circle**: Selectable with the **Blue Button** on the remote.
+
+Additionally, there are two special modes controlled by the **8** and **9** buttons on the remote:
+
+- **Mode 1 (Triggered by Button 8)**:  
+  After selecting a suggested letter using one of the color buttons, the four suggestions will be refreshed with new options, allowing for continuous predictive text suggestions.
+  - The suggestions will update dynamically after each selection.
+  
+- **Mode 2 (Triggered by Button 9)**:  
+  Once a suggestion is selected using a color button, no updates will be made to the suggestion bar. Instead, when the user selects a new letter on the virtual keyboard, a new popup bar with updated suggestions will appear above that selected letter.
+  - The popup bar will reset each time a new letter is selected.
+
 
 
 ## Suggestions Corpus Folder
