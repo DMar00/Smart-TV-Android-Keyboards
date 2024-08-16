@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">33dp</dimen>
+    <dimen name="key_width">51dp</dimen>
+    <dimen name="key_text_size">11sp</dimen>
+    <dimen name="key_radius">12dp</dimen>
+    <dimen name="key_margin_right">4dp</dimen>
+
+    <dimen name="mode_key_height">20dp</dimen>
+    <dimen name="mode_key_width">20dp</dimen>
+    <dimen name="mode_key_text_size">8dp</dimen>
+
+    <dimen name="sug_key_height">16dp</dimen>
+    <dimen name="sug_key_width">16dp</dimen>
+    <dimen name="sug_key_text_size">10dp</dimen>
+
+    <dimen name="elevation">10dp</dimen>
+    <dimen name="elevationCursorMAX">11dp</dimen>
+    <dimen name="elevationCursorMIN">5dp</dimen>
+    <dimen name="paddingHorizontalBar">2dp</dimen>
+    <dimen name="paddingVerticalBar">2dp</dimen>
+    <dimen name="marginRight4dp">4dp</dimen>
+    <!--22-->
+    <dimen name="marginCenterSuggestion">10dp</dimen>
+</resources>
