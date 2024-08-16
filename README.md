@@ -7,6 +7,9 @@ This repository contains multiple virtual keyboards for Android Smart TV, implem
 ### Basic Keyboard
 - This keyboard offers a basic input mode without any suggestion feature. Users manually input characters using the directional keys on the remote control.
 
+### Color PopupBar Static Keyboard
+- This keyboard
+
 
 ## Suggestions Corpus Folder
 Within this directory, you'll discover the code responsible for creating a file enabling suggestion generation based on user input. The suggestions are derived from a corpus in the English language, sourced from the Leipzig Corpora Collection. This corpus consists of 1 million English sentences.
