@@ -25,6 +25,10 @@ Additionally, there are two special modes controlled by the **8** and **9** butt
   Once a suggestion is selected using a color button, no updates will be made to the suggestion bar. Instead, when the user selects a new letter on the virtual keyboard, a new popup bar with updated suggestions will appear above that selected letter.
   - The popup bar will reset each time a new letter is selected.
 
+### Color PopupBar Dinamic Keyboard 
+This virtual keyboard functions similarly to the previous version, featuring a popup suggestion bar that appears above the selected letter on the virtual keyboard when a letter is chosen using the remote control. The popup bar offers four letter suggestions, each linked to a specific color for easy selection via the corresponding color buttons on the remote.
+
+The key difference in this version is that once a suggestion is selected using one of the color buttons, both the cursor on the virtual keyboard and the popup suggestion bar automatically move to the position of the selected suggested letter. When this happens, the suggestions in the popup bar are updated to reflect the new context, allowing for a continuous and seamless text entry experience.
 
 
 ## Suggestions Corpus Folder
